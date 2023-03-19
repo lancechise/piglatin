@@ -1,0 +1,25 @@
+{
+  "name": "piglatin",
+  "version": "1.0.0",
+  "description": "pig tanslation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lancechise/piglatin.git"
+  },
+  "author": "Lance Watson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lancechise/piglatin/issues"
+  },
+  "homepage": "https://github.com/lancechise/piglatin#readme",
+  "dependencies": {
+    "piglatin": "^0.1.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
